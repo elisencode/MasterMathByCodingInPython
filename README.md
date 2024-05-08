@@ -24,3 +24,28 @@ $ git branch
   
 ```
 
+---
+
+```
+ai@linux:/Devices/linux_part2/code/jupyter_notebook_code/MasterMathByCodingInPython$ conda activate
+(base) ai@linux:/mnt/01778196-842c-4a91-8cfe-7fcbfc2f3551/code/jupyter_notebook_code/MasterMathByCodingInPython$ conda env list
+# conda environments:
+#
+base                  *  /home/ai/anaconda3
+AI                       /home/ai/anaconda3/envs/AI
+converter_env            /home/ai/anaconda3/envs/converter_env
+example                  /home/ai/anaconda3/envs/example
+py3                      /home/aDevicesnaconda3/envs/py3
+
+(base) ai@linux:/Devices/linux_part2/code/jupyter_notebook_code/MasterMathByCodingInPython$ conda activate AI
+(AI) ai@linux:/Devices/linux_part2/code/jupyter_notebook_code/MasterMathByCodingIde/MasterMathByCodingInPython$ jupyter notebook
+```
+
+---
+
+Shutdown the open notebook properly:
+
+1. File --> Close and Halt
+2. Logout and close your browser window
+3. Ctrl + C twice to skip confirmation: in order to terminating the jupyter notebook from the terminal.
+
