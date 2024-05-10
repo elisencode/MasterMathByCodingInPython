@@ -7,6 +7,18 @@ See https://www.udemy.com/course/math-with-python/?couponCode=202311 for more de
 
 ---
 
+$ jupyter notebook --version
+7.0.8
+
+$ conda --version
+conda 23.5.0
+
+---
+
+
+
+---
+
 ```
 $ git branch -a
 * main
@@ -32,7 +44,7 @@ $ git branch
 
 3. Github: **Deleted remote branch elisencode_pymath**
 
-4. Local Computer : Terminal : git switch man
+4. Local Computer : Terminal : git switch main
 
 5. Local Computer : Terminal : Delete local branch elisencode_pymath
 
